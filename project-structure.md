@@ -1,6 +1,6 @@
 # Project Structure for MyFirstApp
 
-This document describes the folder and file structure of the MyFirstApp React Native project.
+This document describes the folder and file structure of the EnvironmentTest React Native project.
 
 FirstApp/ 
 ├── android/ # Android-specific files
