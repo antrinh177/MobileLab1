@@ -1,8 +1,8 @@
-# Project Structure for MyFirstApp
+# Project Structure for EnvironmentTest
 
 This document describes the folder and file structure of the EnvironmentTest React Native project.
 
-FirstApp/ 
+EnvironmentTest/ 
 ├── android/ # Android-specific files
 ├── ios/ # iOS-specific files
 ├── node_modules/ # Dependencies
