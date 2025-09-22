@@ -4,7 +4,7 @@
     {
       "name": "Debug Android",
       "cwd": "${workspaceFolder}",
-      "type": "reactnative",
+      "type": "reactnativedirect",
       "request": "launch",
       "platform": "android"
     },
